@@ -6,4 +6,4 @@
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fusornat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fusornat&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
