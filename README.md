@@ -5,5 +5,9 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fusornat&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+##
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fusornat&theme=github_dark)
+	<div>
+		![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fusornat&theme=github_dark)
+		![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fusornat&theme=github_dark)
+	</div>
