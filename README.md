@@ -5,6 +5,8 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 ##
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fusornat&theme=github_dark)
 	<div>
